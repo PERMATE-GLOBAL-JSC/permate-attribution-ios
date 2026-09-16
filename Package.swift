@@ -10,7 +10,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "PermateAttributionSDK",
-            url: "https://sdk.dev.permate.com/ios/previews/4797ce72fa7cb57e914acd5ddb64088d6d2380e6-34218243281/PermateAttributionSDK-preview-4797ce72fa7cb57e914acd5ddb64088d6d2380e6-34218243281.xcframework.zip",
+            url: "https://sdk.dev.pmcdn1.com/ios/previews/4797ce72fa7cb57e914acd5ddb64088d6d2380e6-34218243281/PermateAttributionSDK-preview-4797ce72fa7cb57e914acd5ddb64088d6d2380e6-34218243281.xcframework.zip",
             checksum: "bfe2149684cff921c4b2934c54889b4aefcd63d835078fa4ceadb510cfb4a93d"
         ),
     ]
